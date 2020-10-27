@@ -53,7 +53,7 @@
         
         $fruits = $_POST["fruits"];
         echo '<div class="pro">';
-        echo $fruits; //shows which one you select second "but it doesnt"
+        echo $fruits; 
         echo '</div>'
         ?>
         <?php include "footer.html" ?>  
