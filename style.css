@@ -51,3 +51,16 @@ footer {
     text-align: center;
     background-color: rgba(63, 59, 61, 0.521);
 }
+
+.submit {
+    font-size: 20px;
+    width: 75px;
+    background-color: rgba(63, 59, 61, 0.521);
+    color: white;
+    border-radius: 5px;
+}
+
+.submit:hover {
+    color: rgb(0, 0, 0);
+    background-color: white;
+}
